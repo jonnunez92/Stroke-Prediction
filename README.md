@@ -36,8 +36,9 @@ by Jonathan Nunez | jon.nunez92@gmail.com
 
 ## Age by Hypertension with Heart Disease
 ![Age Hypertension](https://github.com/jonnunez92/Datasets-for-Modeling/blob/main/Age%20by%20Hypertension%20with%20Heart%20Disease.png)
-- We can see that those with Hypertension are older
-- It seems that someone with no Heart Disease is still as likely to have Hyptertension if they're older
+- If you have Hypertension you are usually older, around 60-70
+- If you have Heart Disease, you are most likely around 65 years old, but may or may not have Hypertension
+- If you have no Hypertension and no Heart Disease, you are around 38 years old
 
 ## Stroke by Age
 ![Stroke by Age](https://github.com/jonnunez92/Stroke-Prediction/blob/main/Bargraph%20Stroke%20by%20Age.png)
