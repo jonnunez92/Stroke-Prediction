@@ -1,4 +1,4 @@
-# Datasets-for-Modeling
+# Prediction of Stroke (Kaggle Dataset)
 
 by Jonathan Nunez | jon.nunez92@gmail.com
 ------------------------------------------
@@ -29,3 +29,10 @@ by Jonathan Nunez | jon.nunez92@gmail.com
 - We can see that there are a significant amount of smokers
   - That being said, their rate of stroke is about the same as non-smokers
 
+## Age by BMI
+![Age by BMI](https://github.com/jonnunez92/Datasets-for-Modeling/blob/main/Age%20by%20BMI.png)
+- Here we can see that as Age increases so does BMI
+- Though, this does seem to plateau a bit at around 30 BMI
+
+## Age by Hypertension with Heart Disease
+![Age Hypertension](https://github.com/jonnunez92/Datasets-for-Modeling/blob/main/Age%20by%20Hypertension%20with%20Heart%20Disease.png)
