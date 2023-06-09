@@ -2,7 +2,7 @@
 
 by Jonathan Nunez | jon.nunez92@gmail.com
 ------------------------------------------
-[Link to the Data (.csv)](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/download?datasetVersionNumber=1)
+[Link to the Data (.csv)](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/download?datasetVersionNumber=1)\
 [Source of the Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ### With these graphs and models, we can predict the likelyhood of stroke for our clients.
