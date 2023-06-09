@@ -21,3 +21,11 @@ by Jonathan Nunez | jon.nunez92@gmail.com
 11. smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12. stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+
+
+## Count of Smoking Status with Stroke Count
+![Count of Smoking](https://github.com/jonnunez92/Datasets-for-Modeling/blob/main/Count%20of%20Smoking.png?raw=true)
+- There are much more people that *don't* have strokes
+- We can see that there are a significant amount of smokers
+  - That being said, their rate of stroke is about the same as non-smokers
+
