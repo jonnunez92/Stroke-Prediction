@@ -47,11 +47,9 @@ by Jonathan Nunez | jon.nunez92@gmail.com
 
 ## Model Evaluation
 
-- The best model overall is Tuned Under Sampling KNN
-  - This dataset is very imbalanced so Under Sampling was used to account for this and balance the classes (positive and negative)
-  - Then I was able to tune the KNN parameters to get the best possible results
-  - This model maintained the higher `f1` and `accuracy` scores indicating that it is making correct predictions at a rate of 76% while at the same time keeping the False Negatives relatively low at a 38% rate.
+- The best model overall is ***Tuned Under Sampling Logistic Regression***
+    - This model maintained the higher `f1` and `accuracy` scores indicating that it is making correct predictions at a rate of 72% while at the same time keeping the False Negatives at a 25% rate.
     
-- True Positives ('recall') is at 62%
-  - Precision is at 11%, which means that there are a significant amount of False Positives, but recall is more important in this instance since falsely categorizing someone as 'not likely' to get a stroke is very harmful to the patient
+- Recall is at 75% for the Positive Class
+    - Precision is at 11%, which means that there are a significant amount of False Positives, but recall is more important in this instance since falsely categorizing someone as 'not likely' to get a stroke is very harmful to the patient
 - This is the model I would recommend
