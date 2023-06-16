@@ -45,6 +45,27 @@ by Jonathan Nunez | jon.nunez92@gmail.com
 - People that get strokes are, on average, older; around 65-70 years old
 - People that don't get strokes are, on average, younger at around 40 years old
 
+***
+## Model Metrics
+**Will present best version of each model, metrics are *Accuracy* and *Recall***\
+(Recall is the percentage of True Positives)
+### Tuned Under Sampling KNN
+- Accuracy: 76%
+- Recall: 62%
+
+### Tuned Under Sampling Random Forest
+- Accuracy: 73%
+- Recall: 65%
+
+### Tuned Under Sampling XGBoost
+- Accuracy: 68%
+- Recall: 78%
+
+### Tuned Under Sampling Logistic Regression
+- Accuracy: 72%
+- Recall: 75%
+
+
 ## Model Evaluation
 
 - The best model overall is ***Tuned Under Sampling Logistic Regression***
