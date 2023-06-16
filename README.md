@@ -69,8 +69,8 @@ by Jonathan Nunez | jon.nunez92@gmail.com
 ## Model Evaluation
 
 - The best model overall is ***Tuned Under Sampling Logistic Regression***
-    - This model maintained the higher `f1` and `accuracy` scores indicating that it is making correct predictions at a rate of 72% while at the same time keeping the False Negatives at a 25% rate.
+    - This model maintained a good balance between `Recall` and `Accuracy` scores indicating that it is making correct predictions at a rate of 72% while at the same time keeping the False Negatives at a 25% rate.
     
-- Recall is at 75% for the Positive Class
+- Recall is at 75% for the Positive Class, indicating that this model categorizes True Positives (stroke) correctly 75% of the time
     - Precision is at 11%, which means that there are a significant amount of False Positives, but recall is more important in this instance since falsely categorizing someone as 'not likely' to get a stroke is very harmful to the patient
 - This is the model I would recommend
